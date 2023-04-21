@@ -6,5 +6,5 @@ For download:
   If any .exe file there: 
     download latest version.
   else:
-    I forgot the put exe file.
+    I forgot to put exe file.
   
